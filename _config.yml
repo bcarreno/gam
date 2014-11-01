@@ -1,0 +1,10 @@
+title: Glastonbury Modelers
+email: gliderguider@comcast.net
+description: >
+  Indoor Free Flight
+baseurl: ""
+url: "http://glastonburymodelers.com"
+github_username:  bcarreno
+
+# Build settings
+markdown: kramdown
