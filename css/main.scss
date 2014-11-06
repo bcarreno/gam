@@ -47,3 +47,49 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+
+.footer-col-3 {
+  display: none;
+}
+h2.footer-heading {
+  display: none;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.home {
+  text-align: center;
+
+  p {
+    margin: 3px;
+  }
+
+  h2 {
+    margin: 3px;
+    font-weight: bold;
+  }
+
+  table {
+    margin: 0 auto;
+    font-weight: bold;
+
+    td {
+      text-align: left;
+      padding: 2px 20px;
+    }
+  }
+}
+
+#pleft {
+  float: left;
+}
+#pright {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
