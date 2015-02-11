@@ -24,7 +24,7 @@ or, if you wish to mail your payment, send it to:
 {::options parse_block_html="true" /}
 
 <div id="pleft">
-![My helpful screenshot](/assets/newsletter2.jpg)
+![Model photo](/assets/newsletter2.jpg)
 </div>
 
 <div id="pleft">
@@ -36,7 +36,7 @@ or, if you wish to mail your payment, send it to:
 </div>
 
 <div id="pleft">
-![My helpful screenshot](/assets/newsletter1.jpg)
+![Model photo](/assets/newsletter1.jpg)
 </div>
  
 <div class="clear">
