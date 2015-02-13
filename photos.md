@@ -7,7 +7,7 @@ permalink: /photos/
 Photos
 ======
 
-### January 11, 2015 fly-in
+### Flying session January 11, 2015
 
 * [![photo 1](/assets/images/thumb/1911_cessna_1.jpg)](/assets/images/1911_cessna_1.jpg){: data-toggle="lightbox"}{: data-gallery="three"}
 * [![photo 2](/assets/images/thumb/1911_cessna_2.jpg)](/assets/images/1911_cessna_2.jpg){: data-toggle="lightbox"}{: data-gallery="three"}
