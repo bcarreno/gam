@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Photos
-permalink: /photos/
+title: Photos/Videos
+permalink: /photos-videos/
 ---
 
-Photos
-======
+Photos and Videos
+=================
 
 ### Flying session January 11, 2015
 
@@ -16,6 +16,7 @@ Photos
 * [![photo 5](/assets/images/thumb/dg_cub_2.jpg)](/assets/images/dg_cub_2.jpg){: data-toggle="lightbox"}{: data-gallery="three"}
 * [![photo 6](/assets/images/thumb/mike_k_ww2_ml.jpg)](/assets/images/mike_k_ww2_ml.jpg){: data-toggle="lightbox"}{: data-gallery="three"}
 * [![photo 7](/assets/images/thumb/ray_sam_mustang.jpg)](/assets/images/ray_sam_mustang.jpg){: data-toggle="lightbox"}{: data-gallery="three"}
+* [![video 1](/assets/images/thumb/tony_ww2.png)](http://www.youtube.com/watch?v=C4g0CW8Sqpk){: data-toggle="lightbox"}{: data-gallery="three"}
 
 <script type="text/javascript">
   $(document).ready(function ($) {

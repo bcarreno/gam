@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div id="{{ page.title | downcase }}" class="post">
+<div id="{{ page.title | downcase | slugify }}" class="post">
 
 <!--
   <header class="post-header">
